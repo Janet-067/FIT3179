@@ -7,7 +7,7 @@
     "layer": [
     {
         "data": {
-            "url": "C:\Users\janet\OneDrive\Desktop\HTML\js\map_aus.topojson",
+            "url": "js/map_aus.topojson",
             "format": {"type": "topojson", "feature":
             "ne_110m_admin_0_countries"}
         },
@@ -16,26 +16,21 @@
     {
         "data": {
         "url":
-        "C:\Users\janet\OneDrive\Desktop\HTML\data\sighting_data.csv"
+        "data/sighting_data_small.csv"
         },
         "mark": {"type": "circle", "tooltip": {"content": "data"}},
         "encoding": {
-        "longitude": {"field": "longitude", "type":
+        "longitude": {"field": "decimalLongitude", "type":
         "quantitative"},
-        "latitude": {"field": "latitude", "type":
+        "latitude": {"field": "decimalLatitude", "type":
         "quantitative"},
         "size": {
-        "field": "mag",
+        "field": "individualCount",
         "type": "quantitative",
-        "title": "Magnitude (Richter scale)",
-        "scale": {"domain": [4, 8]}
+        "title": "Number of sightings",
+        "scale": {"domain": [1, 400]}
         },
-        "color": {
-        "field": "depth",
-        "type": "quantitative",
-        "title": "Depth in km",
-        "scale": {"scheme": "reds"}
-        }
+       
         }
         }
         ]
