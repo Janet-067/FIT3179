@@ -309,6 +309,7 @@ Delias nigrina,3,2020,9,Queensland,Pieridae,Delias,-17.3126,145.58711
 Hypolimnas alimena,1,2021,2,Queensland,Nymphalidae,Hypolimnas,-17.31257,145.58703
 Ornithoptera euphorion,3,2019,1,Queensland,Papilionidae,Ornithoptera,-19.248513,146.810852
 Vanessa kershawi,1,2021,9,New South Wales,Nymphalidae,Vanessa,-33.80233,150.78031
+Heteronympha penelope,100,2020,2,Tasmania,Nymphalidae,Heteronympha,-41.358953,147.4059
 Delias mysis,6,2020,3,Queensland,Pieridae,Delias,-17.31233,145.58739
 Ogyris zosine,1,2023,8,Queensland,Lycaenidae,Ogyris,-20.73593,139.51261
 Euploea corinna,1,2021,4,Queensland,Nymphalidae,Euploea,-27.40499,153.02842
@@ -928,6 +929,7 @@ Erina hyacinthina,1,2022,10,New South Wales,Lycaenidae,Erina,-33.64218,151.12547
 Graphium macleayanum,1,2019,12,Tasmania,Papilionidae,Graphium,-42.12702,145.84785
 Erina erina,5,2022,11,Queensland,Lycaenidae,Erina,-19.5504,143.9732
 Neptis praslini,1,2022,4,Queensland,Nymphalidae,Neptis,-12.7796,143.3159
+Belenois java,100,2020,3,South Australia,Pieridae,Belenois,-34.66853,138.88773
 Danaus plexippus,1,2020,4,New South Wales,Nymphalidae,Danaus,-29.42942,153.3255
 Belenois java,1,2020,11,Victoria,Pieridae,Belenois,-37.77538,145.04233
 Papilio (Princeps) demoleus,10,2022,1,Queensland,Papilionidae,Papilio,-27.53241,152.78937
@@ -1430,6 +1432,7 @@ Eurema herla,12,2021,1,Queensland,Pieridae,Eurema,-18.5753,143.69997
 Telicota anisodesma,2,2022,1,Queensland,Hesperiidae,Telicota,-27.33359,152.76328
 Euploea corinna,5,2020,5,Queensland,Nymphalidae,Euploea,-27.52929,153.05785
 Melanitis leda,1,2020,8,Queensland,Nymphalidae,Melanitis,-27.9155,153.3569
+Badamia exclamationis,100,2021,12,Queensland,Hesperiidae,Badamia,-26.3487,152.8901
 Ocybadistes walkeri,1,2020,10,New South Wales,Hesperiidae,Ocybadistes,-33.95588,151.13053
 Eurema herla,50,2021,3,Queensland,Pieridae,Eurema,-18.0168,144.0233
 Anthene lycaenoides,1,2021,2,Queensland,Lycaenidae,Anthene,-17.1651,144.5173
@@ -1445,6 +1448,7 @@ Hypolycaena phorbas,2,2022,12,Queensland,Lycaenidae,Hypolycaena,-18.9062,146.302
 Hypolimnas bolina,10,2021,1,Queensland,Nymphalidae,Hypolimnas,-18.14244,144.811111
 Papilio (Princeps) aegeus,1,2020,12,New South Wales,Papilionidae,Papilio,-33.62477,151.14909
 Belenois java,1,2022,11,New South Wales,Pieridae,Belenois,-33.64212,151.12546
+Jamides phaseli,100,2022,5,Queensland,Lycaenidae,Jamides,-16.6544,145.5671
 Euploea corinna,1,2022,10,Queensland,Nymphalidae,Euploea,-24.95367,150.07545
 Pieris rapae,6,2023,2,Victoria,Pieridae,Pieris,-37.712,148.6002
 Psychonotis caelius,1,2021,2,Queensland,Lycaenidae,Psychonotis,-17.8378,145.5962
@@ -1626,7 +1630,6 @@ Ypthima arctous,2,2022,7,Queensland,Nymphalidae,Ypthima,-12.7515,143.2867
 Mycalesis,2,2020,1,Queensland,Nymphalidae,Mycalesis,-16.94271,145.69088
 Hypocysta adiante,1,2023,7,Queensland,Nymphalidae,Hypocysta,-18.2015,144.576
 Delias mysis,1,2021,4,Queensland,Pieridae,Delias,-17.3115,145.58843
-Telicota ancilla,1,2003,1,Queensland,Hesperiidae,Telicota,-26.40222,153.0279
 Acraea andromacha,4,2023,3,Queensland,Nymphalidae,Acraea,-27.5737,152.9254
 Toxidia,1,2023,8,Queensland,Hesperiidae,Toxidia,-17.3944,145.6057
 Toxidia,2,2022,4,New South Wales,Hesperiidae,Toxidia,-30.76625,152.98735
@@ -2470,6 +2473,7 @@ Junonia hedonia,1,2022,5,Queensland,Nymphalidae,Junonia,-15.3283,145.2828
 Tellervo zoilus,1,2022,6,Queensland,Nymphalidae,Tellervo,-17.8127,146.0995
 Doleschallia bisaltide,1,2020,2,Queensland,Nymphalidae,Doleschallia,-17.27501,145.58346
 Trapezites symmomus,1,2023,1,New South Wales,Hesperiidae,Trapezites,-33.59357,151.1713
+Heteronympha merope,100,2023,3,Victoria,Nymphalidae,Heteronympha,-36.6583,146.9612
 Graphium macleayanum,1,2023,2,Victoria,Papilionidae,Graphium,-38.42876,146.56766
 Papilio (Princeps) demoleus,1,2022,11,Queensland,Papilionidae,Papilio,-25.53488,152.68062
 Eurema smilax,1,2020,8,Queensland,Pieridae,Eurema,-17.31259,145.58696
@@ -3114,13 +3118,13 @@ Zizina otis,1,2021,3,New South Wales,Lycaenidae,Zizina,-35.59714,149.14454
 Nacaduba kurava,2,2022,12,Queensland,Lycaenidae,Nacaduba,-17.3213,145.4199
 Leptotes plinius,7,2022,9,Queensland,Lycaenidae,Leptotes,-24.88922,152.30706
 Elymnias agondas,1,2022,7,Queensland,Nymphalidae,Elymnias,-12.6311,143.4257
-Danaus plexippus,1,2009,1,Tasmania,Nymphalidae,Danaus,-41.71,146.12
 Catopsilia pomona,4,2020,11,Queensland,Pieridae,Catopsilia,-27.54286,153.07245
 Tirumala hamata,1,2022,5,Queensland,Nymphalidae,Tirumala,-15.3283,145.2828
 Hypolimnas bolina,1,2021,3,Queensland,Nymphalidae,Hypolimnas,-17.31253,145.58725
 Danaus plexippus,1,2020,5,New South Wales,Nymphalidae,Danaus,-33.9224,150.93685
 Catopsilia pomona,1,2019,11,Queensland,Pieridae,Catopsilia,-27.49506,153.01484
 Suniana sunias,2,2023,4,Queensland,Hesperiidae,Suniana,-24.88922,152.30706
+Eurema herla,100,2021,3,Queensland,Pieridae,Eurema,-17.3585,145.3281
 Euploea corinna,10,2021,3,Queensland,Nymphalidae,Euploea,-18.0283,144.0487
 Euploea tulliolus,1,2022,3,Queensland,Nymphalidae,Euploea,-17.31266,145.58724
 Oreixenica kershawi,4,2023,3,Victoria,Nymphalidae,Oreixenica,-37.1383,146.4608
@@ -4884,6 +4888,7 @@ Hypocysta angustata,1,2022,3,Queensland,Nymphalidae,Hypocysta,-12.7393,143.2533
 Mycalesis perseus,15,2022,4,Queensland,Nymphalidae,Mycalesis,-12.7144,143.3185
 Papilio (Princeps) aegeus,1,2020,1,New South Wales,Papilionidae,Papilio,-31.63891,152.79358
 Catopsilia pomona,15,2020,2,Queensland,Pieridae,Catopsilia,-27.46714,153.02184
+Euploea climena,6,2019,3,,Nymphalidae,Euploea,-10.451,105.6889
 Papilio (Princeps) ulysses,1,2021,3,Queensland,Papilionidae,Papilio,-17.31285,145.58695
 Zizina otis,15,2022,10,Queensland,Lycaenidae,Zizina,-23.5411,148.0072
 Belenois java,3,2019,11,Queensland,Pieridae,Belenois,-26.69661,152.01157
@@ -4919,6 +4924,7 @@ Cressida cressida,1,2022,3,Queensland,Papilionidae,Cressida,-12.7934,143.3599
 Vanessa itea,1,2020,11,Victoria,Nymphalidae,Vanessa,-37.76966,145.00064
 Ypthima arctous,3,2022,10,Queensland,Nymphalidae,Ypthima,-23.7961,149.0729
 Papilio (Princeps) ambrax,1,2020,4,Queensland,Papilionidae,Papilio,-17.31262,145.58704
+Neolucia agricola,100,2022,10,Queensland,Lycaenidae,Neolucia,-27.0793,152.6695
 Ypthima arctous,3,2022,5,Queensland,Nymphalidae,Ypthima,-15.5078,145.2241
 Prosotas dubiosa,3,2022,1,Queensland,Lycaenidae,Prosotas,-27.04164,152.6892
 Papilio (Princeps) aegeus,1,2020,5,Queensland,Papilionidae,Papilio,-27.44393,152.93294
@@ -5098,6 +5104,7 @@ Papilio (Princeps) aegeus,2,2022,3,New South Wales,Papilionidae,Papilio,-33.642,
 Acraea andromacha,12,2022,1,Queensland,Nymphalidae,Acraea,-27.54301,153.07271
 Tellervo zoilus,1,2020,3,Queensland,Nymphalidae,Tellervo,-17.56663,145.49881
 Ocybadistes walkeri,1,2021,2,Queensland,Hesperiidae,Ocybadistes,-17.5002,146.073
+Heteronympha merope,100,2023,3,Victoria,Nymphalidae,Heteronympha,-37.2366,144.3601
 Phaedyma shepherdi,1,2021,4,Queensland,Nymphalidae,Phaedyma,-26.93602,152.56728
 Graphium choredon,2,2020,1,Queensland,Papilionidae,Graphium,-27.53279,153.0543
 Papilio (Princeps) aegeus,1,2022,12,Queensland,Papilionidae,Papilio,-27.70264,152.0949
@@ -6000,7 +6007,6 @@ Appias melania,3,2021,1,Queensland,Pieridae,Appias,-17.31264,145.58718
 Papilio (Princeps) ambrax,1,2023,2,Queensland,Papilionidae,Papilio,-17.31244,145.58733
 Tirumala hamata,3,2020,3,Queensland,Nymphalidae,Tirumala,-26.41044,153.0556
 Papilio (Princeps) aegeus,1,2020,11,Queensland,Papilionidae,Papilio,-26.584931,151.806986
-Chaetocneme beata,1,2005,8,New South Wales,Hesperiidae,Chaetocneme,-33.62475,151.14882
 Heteronympha merope,1,2021,4,Victoria,Nymphalidae,Heteronympha,-37.35584,144.15374
 Pieris rapae,1,2020,8,Queensland,Pieridae,Pieris,-17.31256,145.58716
 Cepora perimale,4,2022,11,Queensland,Pieridae,Cepora,-27.53136,152.87106
@@ -6225,6 +6231,7 @@ Junonia villida,1,2021,4,Western Australia,Nymphalidae,Junonia,-31.27272,116.845
 Eurema hecabe,1,2023,4,Queensland,Pieridae,Eurema,-24.88922,152.30706
 Heteronympha merope,4,2022,11,New South Wales,Nymphalidae,Heteronympha,-33.63926,151.1232
 Mycalesis,10,2021,3,Queensland,Nymphalidae,Mycalesis,-17.3124,145.58736
+Heteronympha merope,100,2022,3,South Australia,Nymphalidae,Heteronympha,-38.04163,140.65122
 Jalmenus evagoras,9,2023,3,Victoria,Lycaenidae,Jalmenus,-37.72409,145.05104
 Doleschallia bisaltide,2,2020,3,Queensland,Nymphalidae,Doleschallia,-17.27494,145.58339
 Junonia orithya,2,2021,3,Queensland,Nymphalidae,Junonia,-18.1087,144.8252
@@ -6911,6 +6918,7 @@ Heteronympha merope,1,2019,11,New South Wales,Nymphalidae,Heteronympha,-35.95965
 Melanitis leda,2,2022,9,Queensland,Nymphalidae,Melanitis,-27.09252,153.44452
 Junonia orithya,2,2021,2,Queensland,Nymphalidae,Junonia,-17.3773,145.3759
 Tirumala hamata,1,2022,1,Queensland,Nymphalidae,Tirumala,-27.69487,151.54356
+Euploea corinna,100,2022,3,Queensland,Nymphalidae,Euploea,-21.6218,148.10772
 Vanessa itea,1,2021,1,Australian Capital Territory,Nymphalidae,Vanessa,-35.57662,148.78409
 Pelopidas lyelli,1,2021,2,Queensland,Hesperiidae,Pelopidas,-17.1439,144.5251
 Ornithoptera priamus,1,2022,10,Queensland,Papilionidae,Ornithoptera,-12.17709,141.89601
@@ -7954,6 +7962,7 @@ Cressida cressida,1,2019,12,Queensland,Papilionidae,Cressida,-16.93839,145.72837
 Melanitis leda,1,2020,7,Queensland,Nymphalidae,Melanitis,-27.4857,153.1853
 Euploea sylvester,1,2022,4,Queensland,Nymphalidae,Euploea,-12.7235,143.1593
 Catochrysops panormus,3,2022,9,Queensland,Lycaenidae,Catochrysops,-27.422943,153.165073
+Zizina otis,100,2022,10,Queensland,Lycaenidae,Zizina,-24.9938,148.6897
 Tirumala hamata,1,2021,4,Queensland,Nymphalidae,Tirumala,-17.3379,145.6193
 Telicota ancilla,2,2022,11,New South Wales,Hesperiidae,Telicota,-33.5939,151.1703
 Hypochrysops delicia,6,2023,4,Queensland,Lycaenidae,Hypochrysops,-27.71801,152.87895
@@ -8222,6 +8231,7 @@ Psychonotis caelius,1,2022,7,Queensland,Lycaenidae,Psychonotis,-12.7765,143.3063
 Eurema smilax,1,2020,9,New South Wales,Pieridae,Eurema,-30.8437,148.92376
 Theclinesthes miskini,1,2022,11,Queensland,Lycaenidae,Theclinesthes,-12.33782,141.91706
 Hypocysta metirius,1,2022,1,Queensland,Nymphalidae,Hypocysta,-27.48585,152.95141
+Tirumala hamata,100,2020,5,Queensland,Nymphalidae,Tirumala,-9.75223,143.4146
 Catopsilia pomona,7,2021,3,Queensland,Pieridae,Catopsilia,-26.584931,151.806986
 Pelopidas lyelli,5,2021,4,Queensland,Hesperiidae,Pelopidas,-17.2652,145.4871
 Pieris rapae,1,2020,6,New South Wales,Pieridae,Pieris,-33.92236,150.93677
@@ -8748,6 +8758,7 @@ Acraea andromacha,2,2022,2,Western Australia,Nymphalidae,Acraea,-33.08058,115.91
 Suniana sunias,4,2021,3,Queensland,Hesperiidae,Suniana,-27.53877,153.06581
 Belenois java,2,2023,8,Queensland,Pieridae,Belenois,-21.3942,139.80413
 Candalides,1,2020,8,Queensland,Lycaenidae,Candalides,-17.31239,145.58735
+Acraea andromacha,100,2021,2,Queensland,Nymphalidae,Acraea,-27.3375,153.07778
 Leptotes plinius,5,2021,3,Queensland,Lycaenidae,Leptotes,-17.3788,145.38465
 Belenois java,1,2020,9,New South Wales,Pieridae,Belenois,-31.27076,148.95971
 Famegana,2,2020,4,Queensland,Lycaenidae,Famegana,-17.4,145.4
@@ -10910,6 +10921,7 @@ Ornithoptera euphorion,1,2020,2,Queensland,Papilionidae,Ornithoptera,-17.31254,1
 Prosotas felderi,1,2020,6,New South Wales,Lycaenidae,Prosotas,-33.92163,150.93655
 Vanessa itea,1,2021,4,Victoria,Nymphalidae,Vanessa,-37.77817,145.00471
 Cressida cressida,1,2021,12,Queensland,Papilionidae,Cressida,-17.3749,145.3084
+Belenois java,100,2021,12,Queensland,Pieridae,Belenois,-26.3487,152.8901
 Graphium choredon,1,2020,3,Queensland,Papilionidae,Graphium,-26.41035,153.05553
 Papilio (Princeps) aegeus,1,2023,2,Queensland,Papilionidae,Papilio,-24.88922,152.30706
 Toxidia thyrrhus,1,2021,2,Queensland,Hesperiidae,Toxidia,-17.26613,145.57846
@@ -11417,8 +11429,8 @@ Mesodina halyzia,1,2023,3,Queensland,Hesperiidae,Mesodina,-27.07669,152.66628
 Ocybadistes walkeri,1,2022,10,Queensland,Hesperiidae,Ocybadistes,-25.42782,150.0235
 Appias paulina,2,2023,1,Queensland,Pieridae,Appias,-27.3646,152.78988
 Euploea corinna,1,2022,10,Queensland,Nymphalidae,Euploea,-25.0653,148.2472
-Telicota ancilla,1,2005,1,Queensland,Hesperiidae,Telicota,-26.34671,152.89075
 Danaus plexippus,1,2019,12,Western Australia,Nymphalidae,Danaus,-33.28388,115.73411
+Zizina otis,100,2021,3,Queensland,Lycaenidae,Zizina,-18.0948,144.0911
 Papilio (Princeps) ulysses,1,2021,4,Queensland,Papilionidae,Papilio,-18.10198,145.95655
 Belenois java,1,2021,9,Queensland,Pieridae,Belenois,-20.9253,149.0482
 Eurema hecabe,1,2020,12,Queensland,Pieridae,Eurema,-17.31315,145.5866
@@ -12415,6 +12427,7 @@ Hypolycaena danis,1,2020,3,Queensland,Lycaenidae,Hypolycaena,-17.27493,145.58354
 Vanessa kershawi,1,2020,3,Queensland,Nymphalidae,Vanessa,-25.93479,152.62494
 Cephrenes augiades,1,2020,4,Queensland,Hesperiidae,Cephrenes,-28.12371,153.19407
 Catopyrops florinda,5,2020,3,Queensland,Lycaenidae,Catopyrops,-27.5319,153.05599
+Zizina otis,100,2023,3,Victoria,Lycaenidae,Zizina,-37.7067,145.6815
 Zizula hylax,3,2021,10,Queensland,Lycaenidae,Zizula,-27.42319,153.16708
 Euploea corinna,2,2023,4,New South Wales,Nymphalidae,Euploea,-33.92236,150.93705
 Euploea corinna,2,2021,4,Queensland,Nymphalidae,Euploea,-23.72084,150.74794
@@ -12971,6 +12984,7 @@ Rapala varuna,1,2022,10,Queensland,Lycaenidae,Rapala,-17.31159,145.58895
 Pieris rapae,1,2022,8,New South Wales,Pieridae,Pieris,-33.62495,151.14892
 Junonia villida,3,2019,11,Queensland,Nymphalidae,Junonia,-27.493959,152.992004
 Rapala varuna,1,2022,2,Queensland,Lycaenidae,Rapala,-27.49218,152.7443
+Euploea corinna,100,2021,3,Queensland,Nymphalidae,Euploea,-17.3585,145.3281
 Junonia hedonia,1,2022,6,Queensland,Nymphalidae,Junonia,-16.1076,144.776466
 Heteronympha banksii,1,2022,4,Australian Capital Territory,Nymphalidae,Heteronympha,-35.38,148.82
 Belenois java,2,2019,11,Queensland,Pieridae,Belenois,-27.497514,153.013021
@@ -13584,6 +13598,7 @@ Elodina queenslandica,1,2022,6,Queensland,Pieridae,Elodina,-15.4998,145.2748
 Eurema hecabe,1,2023,6,Queensland,Pieridae,Eurema,-17.31254,145.58717
 Erysichton lineatus,1,2021,8,Queensland,Lycaenidae,Erysichton,-17.4255,145.4418
 Graphium eurypylus,1,2021,12,New South Wales,Papilionidae,Graphium,-30.47749,151.73955
+Nesoxenica leprea,1,2021,1,,Nymphalidae,Nesoxenica,42.673441,146.64266
 Eurema hecabe,1,2022,2,Queensland,Pieridae,Eurema,-27.49218,152.7443
 Papilio (Princeps) aegeus,2,2021,11,Queensland,Papilionidae,Papilio,-27.47749,152.97577
 Euploea corinna,2,2022,5,New South Wales,Nymphalidae,Euploea,-30.35664,153.10443
@@ -13749,6 +13764,7 @@ Papilio (Princeps) ulysses,1,2021,2,Queensland,Papilionidae,Papilio,-17.5983,145
 Candalides,1,2021,1,Queensland,Lycaenidae,Candalides,-17.31257,145.58707
 Graphium agamemnon,10,2022,3,Queensland,Papilionidae,Graphium,-17.31234,145.58737
 Ornithoptera euphorion,1,2023,5,Queensland,Papilionidae,Ornithoptera,-17.5592,146.089
+Pieris rapae,100,2021,12,Victoria,Pieridae,Pieris,-38.1498,144.3034
 Charaxes sempronius,1,2021,4,Queensland,Nymphalidae,Charaxes,-27.484863,152.749706
 Vanessa kershawi,1,2021,2,Queensland,Nymphalidae,Vanessa,-27.49376,152.75304
 Junonia hedonia,1,2020,5,Queensland,Nymphalidae,Junonia,-17.31242,145.58712
@@ -14021,6 +14037,7 @@ Graphium choredon,4,2023,3,Queensland,Papilionidae,Graphium,-26.3712,152.83788
 Rapala varuna,1,2023,4,Queensland,Lycaenidae,Rapala,-23.17934,150.79443
 Hesperilla donnysa,1,2021,1,Tasmania,Hesperiidae,Hesperilla,-42.0961,145.67557
 Cyprotides cyprotus,1,2023,2,Queensland,Lycaenidae,Cyprotides,-27.71808,152.8789
+Catochrysops panormus,100,2022,3,Queensland,Lycaenidae,Catochrysops,-17.600091,145.551715
 Heteronympha merope,3,2022,1,New South Wales,Nymphalidae,Heteronympha,-31.0134,149.4144
 Danaus plexippus,1,2021,5,Queensland,Nymphalidae,Danaus,-27.68737,153.21522
 Danaus petilia,1,2020,12,New South Wales,Nymphalidae,Danaus,-33.79903,151.14385
@@ -14221,6 +14238,7 @@ Acraea andromacha,1,2020,1,Queensland,Nymphalidae,Acraea,-27.50616,153.07816
 Catopsilia pomona,1,2022,9,Queensland,Pieridae,Catopsilia,-20.3452,144.4607
 Euploea corinna,1,2021,2,Queensland,Nymphalidae,Euploea,-27.3375,153.07778
 Delias mysis,4,2022,10,Queensland,Pieridae,Delias,-17.31156,145.58877
+Elodina parthia,100,2021,2,Queensland,Pieridae,Elodina,-17.3773,145.3759
 Papilio (Princeps) ambrax,1,2020,7,Queensland,Papilionidae,Papilio,-17.13406,145.5986
 Zizina otis,3,2020,3,Queensland,Lycaenidae,Zizina,-25.93483,152.62503
 Pieris rapae,3,2021,4,New South Wales,Pieridae,Pieris,-33.92223,150.93614
@@ -14888,6 +14906,7 @@ Belenois java,1,2020,10,Victoria,Pieridae,Belenois,-37.77823,145.00441
 Pelopidas lyelli,1,2021,2,Queensland,Hesperiidae,Pelopidas,-17.1385,145.2291
 Heteronympha penelope,1,2022,2,Tasmania,Nymphalidae,Heteronympha,-41.46601,145.39057
 Telicota colon,2,2021,3,Queensland,Hesperiidae,Telicota,-24.88922,152.30706
+Tirumala hamata,100,2021,9,Queensland,Nymphalidae,Tirumala,-20.9275,149.0539
 Belenois java,6,2020,10,New South Wales,Pieridae,Belenois,-34.22851,150.9897
 Hypocysta pseudirius,3,2022,2,New South Wales,Nymphalidae,Hypocysta,-33.642,151.1253
 Papilio (Princeps) fuscus,1,2020,4,Queensland,Papilionidae,Papilio,-23.10614,150.74175
@@ -16220,6 +16239,7 @@ Catopsilia pomona,2,2020,2,Queensland,Pieridae,Catopsilia,-28.01944,153.33841
 Junonia villida,1,2013,5,Queensland,Nymphalidae,Junonia,-14.914167,144.210833
 Junonia orithya,1,2023,2,Queensland,Nymphalidae,Junonia,-17.30033,145.58181
 Cephrenes augiades,1,2020,3,Queensland,Hesperiidae,Cephrenes,-28.01957,153.33835
+Euploea corinna,100,2021,1,Queensland,Nymphalidae,Euploea,-18.1086,144.8253
 Belenois java,1,2020,11,New South Wales,Pieridae,Belenois,-33.92227,150.93618
 Pantoporia consimilis,3,2022,7,Queensland,Nymphalidae,Pantoporia,-12.8229,143.3463
 Euploea corinna,2,2022,3,New South Wales,Nymphalidae,Euploea,-33.92238,150.9371
@@ -16340,6 +16360,7 @@ Belenois java,3,2023,8,Queensland,Pieridae,Belenois,-21.80894,139.80964
 Tellervo zoilus,2,2022,4,Queensland,Nymphalidae,Tellervo,-12.7144,143.3185
 Junonia villida,1,2022,3,Victoria,Nymphalidae,Junonia,-37.35562,144.15368
 Papilio (Princeps) ambrax,2,2023,4,Queensland,Papilionidae,Papilio,-17.3128,145.587158
+Catochrysops panormus,100,2022,3,Queensland,Lycaenidae,Catochrysops,-17.624,145.4789
 Acraea terpsicore,20,2021,3,Queensland,Nymphalidae,Acraea,-18.0199,144.0347
 Hypolimnas bolina,4,2020,3,Queensland,Nymphalidae,Hypolimnas,-17.3125,145.58731
 Pachliopta polydorus,20,2021,4,Queensland,Papilionidae,Pachliopta,-17.6253,145.5208
@@ -16524,6 +16545,7 @@ Danaus petilia,1,2020,11,New South Wales,Nymphalidae,Danaus,-30.8169,152.1465
 Tirumala hamata,5,2020,10,Queensland,Nymphalidae,Tirumala,-27.54005,153.07127
 Eurema smilax,34,2022,12,Queensland,Pieridae,Eurema,-27.57076,152.9335
 Lucia limbaria,2,2021,4,New South Wales,Lycaenidae,Lucia,-33.67576,149.76506
+Heteronympha merope,100,2020,12,Victoria,Nymphalidae,Heteronympha,-37.856737,144.250924
 Theclinesthes miskini,1,2022,3,Northern Territory,Lycaenidae,Theclinesthes,-13.49632,131.03578
 Euploea corinna,2,2020,1,Queensland,Nymphalidae,Euploea,-27.53379,153.05875
 Jalmenus evagoras,3,2022,1,Queensland,Lycaenidae,Jalmenus,-27.53953,153.04688
@@ -17238,6 +17260,7 @@ Tirumala hamata,2,2021,3,Queensland,Nymphalidae,Tirumala,-17.368,145.4261
 Hypocysta metirius,2,2019,10,Queensland,Nymphalidae,Hypocysta,-26.50518,152.97779
 Catopsilia pomona,11,2020,4,Queensland,Pieridae,Catopsilia,-17.3788,145.38465
 Heteronympha merope,4,2023,4,New South Wales,Nymphalidae,Heteronympha,-33.59363,151.17087
+Acraea terpsicore,100,2022,3,Queensland,Nymphalidae,Acraea,-17.600091,145.551715
 Eurema smilax,1,2022,10,Queensland,Pieridae,Eurema,-23.7506,149.1062
 Danaus affinis,1,2021,9,Queensland,Nymphalidae,Danaus,-20.090541,148.509071
 Heteronympha merope,2,2020,12,Victoria,Nymphalidae,Heteronympha,-37.82401,145.2083
@@ -17300,6 +17323,7 @@ Euploea tulliolus,1,2021,12,Queensland,Nymphalidae,Euploea,-17.34166,145.86965
 Heteronympha penelope,1,2022,2,Victoria,Nymphalidae,Heteronympha,-38.07083,141.73766
 Erina hyacinthina,1,2022,4,Queensland,Lycaenidae,Erina,-27.53956,153.06513
 Neptis praslini,1,2023,5,Queensland,Nymphalidae,Neptis,-17.5592,146.089
+Leptotes plinius,100,2020,3,Queensland,Lycaenidae,Leptotes,-27.72436,151.63377
 Deudorix diovis,1,2020,1,New South Wales,Lycaenidae,Deudorix,-29.42951,153.32543
 Danaus plexippus,1,2023,4,New South Wales,Nymphalidae,Danaus,-33.92231,150.93665
 Danaus petilia,1,2023,9,Queensland,Nymphalidae,Danaus,-27.53562,152.99295
@@ -17664,6 +17688,7 @@ Badamia exclamationis,2,2022,3,Queensland,Hesperiidae,Badamia,-21.53447,148.2375
 Junonia orithya,2,2020,9,Queensland,Nymphalidae,Junonia,-16.9321,145.3383
 Tirumala hamata,1,2020,5,Queensland,Nymphalidae,Tirumala,-27.485,153.114
 Catopsilia pomona,4,2021,4,Queensland,Pieridae,Catopsilia,-27.40064,153.02942
+Tirumala hamata,100,2020,3,Queensland,Nymphalidae,Tirumala,-26.53432,153.09023
 Graphium eurypylus,2,2020,12,New South Wales,Papilionidae,Graphium,-33.74017,150.60126
 Vanessa kershawi,1,2022,11,New South Wales,Nymphalidae,Vanessa,-33.62492,151.14884
 Tirumala hamata,10,2020,3,Queensland,Nymphalidae,Tirumala,-27.52933,153.05783
@@ -17892,6 +17917,7 @@ Ypthima arctous,3,2023,7,Queensland,Nymphalidae,Ypthima,-15.48913,144.8166
 Mycalesis,10,2021,4,Queensland,Nymphalidae,Mycalesis,-17.2652,145.4871
 Deudorix diovis,1,2020,4,Queensland,Lycaenidae,Deudorix,-26.34782,152.88992
 Toxidia,4,2022,10,Queensland,Hesperiidae,Toxidia,-27.07696,152.66641
+Eurema hecabe,100,2021,3,Queensland,Pieridae,Eurema,-17.3585,145.3281
 Heteronympha merope,5,2021,2,Tasmania,Nymphalidae,Heteronympha,-43.07823,147.26405
 Graphium eurypylus,4,2022,2,Queensland,Papilionidae,Graphium,-27.48529,152.87957
 Euploea corinna,5,2020,10,Queensland,Nymphalidae,Euploea,-20.64909,148.72279
@@ -18683,6 +18709,7 @@ Belenois java,12,2020,4,Queensland,Pieridae,Belenois,-26.58766,151.811524
 Graphium eurypylus,1,2023,3,Queensland,Papilionidae,Graphium,-17.31247,145.58736
 Heteronympha penelope,1,2022,2,Tasmania,Nymphalidae,Heteronympha,-41.89939,146.67094
 Junonia orithya,1,2023,4,Queensland,Nymphalidae,Junonia,-17.313756,145.585965
+Belenois java,100,2022,10,Queensland,Pieridae,Belenois,-27.65811,151.52523
 Ypthima arctous,1,2021,10,Queensland,Nymphalidae,Ypthima,-17.569375,145.897928
 Geitoneura klugii,15,2023,2,Victoria,Nymphalidae,Geitoneura,-38.3609,146.3956
 Phaedyma shepherdi,1,2020,5,Queensland,Nymphalidae,Phaedyma,-17.17696,145.45809
@@ -18958,6 +18985,7 @@ Vanessa itea,1,2021,2,Victoria,Nymphalidae,Vanessa,-38.148357,144.300539
 Danaus plexippus,1,2022,11,Queensland,Nymphalidae,Danaus,-18.1088,144.8255
 Papilio (Princeps) ulysses,1,2020,12,Queensland,Papilionidae,Papilio,-17.31254,145.5871
 Symbrenthia,3,2022,2,Queensland,Nymphalidae,Symbrenthia,-27.33375,152.76217
+Euploea corinna,100,2022,11,Queensland,Nymphalidae,Euploea,-17.09271,144.3959
 Graphium choredon,1,2022,11,Queensland,Papilionidae,Graphium,-27.38884,153.01579
 Papilio (Princeps) aegeus,1,2021,11,Queensland,Papilionidae,Papilio,-27.56805,152.9654
 Papilio (Princeps) aegeus,1,2020,11,Queensland,Papilionidae,Papilio,-27.54032,153.07032
@@ -19150,7 +19178,6 @@ Melanitis leda,1,2022,11,Queensland,Nymphalidae,Melanitis,-17.31157,145.58898
 Delias harpalyce,3,2023,3,Victoria,Pieridae,Delias,-38.63674,143.89097
 Zizeeria karsandra,1,2023,8,Queensland,Lycaenidae,Zizeeria,-20.70819,140.51975
 Trapezites phigalia,4,2022,10,Queensland,Hesperiidae,Trapezites,-27.0768,152.6659
-Charaxes sempronius,1,2011,1,New South Wales,Nymphalidae,Charaxes,-29.7505,151.0971
 Graphium eurypylus,1,2022,2,Queensland,Papilionidae,Graphium,-27.53044,153.03604
 Catopsilia pomona,4,2022,9,Queensland,Pieridae,Catopsilia,-17.31243,145.58738
 Heteronympha penelope,20,2023,3,Victoria,Nymphalidae,Heteronympha,-37.372,144.594
@@ -19754,6 +19781,7 @@ Heteronympha merope,40,2023,3,Victoria,Nymphalidae,Heteronympha,-37.526,145.4211
 Ornithoptera euphorion,1,2020,4,Queensland,Papilionidae,Ornithoptera,-17.56,145.58
 Suniana sunias,1,2022,2,Queensland,Hesperiidae,Suniana,-17.85704,146.11719
 Catopsilia pomona,1,2020,1,Queensland,Pieridae,Catopsilia,-27.57684,152.87614
+Famegana,100,2021,3,Queensland,Lycaenidae,Famegana,-18.0948,144.0911
 Candalides,1,2021,1,Queensland,Lycaenidae,Candalides,-17.31236,145.58728
 Theclinesthes serpentatus,1,2020,4,Tasmania,Lycaenidae,Theclinesthes,-42.1232,148.0746
 Yoma sabina,3,2020,2,Queensland,Nymphalidae,Yoma,-16.78363,145.6906
@@ -19925,6 +19953,7 @@ Vanessa itea,2,2023,1,Victoria,Nymphalidae,Vanessa,-37.35543,144.15339
 Psychonotis caelius,1,2023,4,New South Wales,Lycaenidae,Psychonotis,-33.92231,150.93665
 Eurema hecabe,1,2022,9,Queensland,Pieridae,Eurema,-25.11527,152.56191
 Heteronympha merope,3,2020,1,Victoria,Nymphalidae,Heteronympha,-37.72221,145.05047
+Belenois java,100,2020,11,New South Wales,Pieridae,Belenois,-37.0561,149.906
 Candalides,2,2021,1,Queensland,Lycaenidae,Candalides,-18.613,143.7557
 Catopsilia pomona,1,2020,2,Queensland,Pieridae,Catopsilia,-16.78363,145.6906
 Zizula hylax,1,2019,12,Queensland,Lycaenidae,Zizula,-27.50876,153.08017
@@ -20571,6 +20600,7 @@ Danaus plexippus,1,2021,1,Queensland,Nymphalidae,Danaus,-17.31243,145.58736
 Mycalesis,15,2021,4,Queensland,Nymphalidae,Mycalesis,-16.6667,145.3279
 Hesperilla idothea,2,2023,3,Victoria,Hesperiidae,Hesperilla,-37.3702,144.5976
 Eurema hecabe,1,2020,3,Queensland,Pieridae,Eurema,-26.4105,153.05556
+Tirumala hamata,100,2020,4,Queensland,Nymphalidae,Tirumala,-27.41836,152.97436
 Suniana sunias,1,2022,6,Queensland,Hesperiidae,Suniana,-17.7812,146.0996
 Hypolimnas alimena,1,2022,3,Queensland,Nymphalidae,Hypolimnas,-12.7131,143.2983
 Pieris rapae,1,2023,2,Victoria,Pieridae,Pieris,-37.718,149.1289
@@ -21079,6 +21109,7 @@ Jalmenus evagoras,1,2021,12,Queensland,Lycaenidae,Jalmenus,-27.54221,153.06907
 Tellervo zoilus,1,2022,3,Queensland,Nymphalidae,Tellervo,-12.71311,143.29831
 Ocybadistes walkeri,1,2023,2,New South Wales,Hesperiidae,Ocybadistes,-33.64204,151.12532
 Geitoneura klugii,2,2021,2,New South Wales,Nymphalidae,Geitoneura,-35.26233,148.77131
+Cepora perimale,100,2021,2,Queensland,Pieridae,Cepora,-17.0897,144.3922
 Vanessa itea,1,2023,3,Victoria,Nymphalidae,Vanessa,-37.3773,144.6135
 Hypocysta metirius,1,2020,6,Queensland,Nymphalidae,Hypocysta,-17.5159,145.434
 Catopsilia pomona,3,2021,2,Queensland,Pieridae,Catopsilia,-24.88922,152.30706
@@ -21466,6 +21497,7 @@ Belenois java,1,2020,11,Victoria,Pieridae,Belenois,-37.77901,145.00191
 Catopsilia pomona,2,2022,12,Queensland,Pieridae,Catopsilia,-19.0808,146.3802
 Hypolimnas bolina,3,2020,2,Queensland,Nymphalidae,Hypolimnas,-17.275,145.58347
 Danaus plexippus,4,2023,3,Victoria,Nymphalidae,Danaus,-36.32629,146.92155
+Oreixenica kershawi,100,2020,3,Victoria,Nymphalidae,Oreixenica,-38.77903,143.61978
 Toxidia peron,1,2021,2,Queensland,Hesperiidae,Toxidia,-27.9685,153.18469
 Graphium choredon,1,2021,11,New South Wales,Papilionidae,Graphium,-33.92229,150.93663
 Melanitis leda,1,2022,4,Queensland,Nymphalidae,Melanitis,-17.31249,145.58729
@@ -21683,6 +21715,7 @@ Hypocysta metirius,3,2023,3,New South Wales,Nymphalidae,Hypocysta,-33.6197,151.1
 Tirumala hamata,2,2020,11,New South Wales,Nymphalidae,Tirumala,-29.27898,152.15147
 Delias mysis,1,2020,6,Queensland,Pieridae,Delias,-17.31245,145.58724
 Suniana sunias,1,2022,2,Queensland,Hesperiidae,Suniana,-24.88922,152.30706
+Belenois java,100,2020,4,Queensland,Pieridae,Belenois,-27.6044,151.9304
 Jamides phaseli,1,2021,4,Queensland,Lycaenidae,Jamides,-17.31256,145.58713
 Ocybadistes flavovittatus,1,2020,3,Queensland,Hesperiidae,Ocybadistes,-27.45018,152.95578
 Hypolimnas bolina,1,2020,5,Queensland,Nymphalidae,Hypolimnas,-17.31259,145.58713
@@ -21876,6 +21909,7 @@ Delias harpalyce,2,2023,2,Victoria,Pieridae,Delias,-37.685,145.572
 Tirumala hamata,1,2020,4,Queensland,Nymphalidae,Tirumala,-27.53151,153.05656
 Cepora perimale,1,2020,4,Queensland,Pieridae,Cepora,-27.53283,153.05356
 Tirumala hamata,1,2021,2,Queensland,Nymphalidae,Tirumala,-27.53873,153.06574
+Catochrysops panormus,100,2021,3,Queensland,Lycaenidae,Catochrysops,-18.2214,144.6666
 Zizina otis,1,2020,9,Queensland,Lycaenidae,Zizina,-27.53336,153.05227
 Cephrenes trichopepla,1,2021,2,Queensland,Hesperiidae,Cephrenes,-27.64204,152.75204
 Nacaduba cyanea,6,2021,12,Queensland,Lycaenidae,Nacaduba,-17.43809,145.85925
@@ -22151,6 +22185,7 @@ Acraea andromacha,1,2023,9,Queensland,Nymphalidae,Acraea,-20.73994,139.4844
 Charaxes sempronius,1,2023,8,Northern Territory,Nymphalidae,Charaxes,-14.91172,133.09066
 Eurema herla,6,2020,8,Queensland,Pieridae,Eurema,-20.64191,145.16643
 Appias paulina,2,2022,10,Queensland,Pieridae,Appias,-21.4058,148.5448
+Junonia villida,100,2022,10,Queensland,Nymphalidae,Junonia,-24.0755,148.05
 Junonia orithya,1,2021,4,Queensland,Nymphalidae,Junonia,-17.31241,145.58717
 Dispar compacta,1,2020,3,Australian Capital Territory,Hesperiidae,Dispar,-35.27852,149.10941
 Junonia villida,1,2023,3,Queensland,Nymphalidae,Junonia,-17.31247,145.58736
@@ -22185,6 +22220,7 @@ Ornithoptera euphorion,2,2023,4,Queensland,Papilionidae,Ornithoptera,-17.25705,1
 Catopyrops florinda,7,2023,5,Queensland,Lycaenidae,Catopyrops,-24.86669,152.339865
 Papilio (Princeps) aegeus,1,2023,4,Queensland,Papilionidae,Papilio,-17.25705,145.57421
 Mycalesis perseus,1,2023,7,Queensland,Nymphalidae,Mycalesis,-12.17748,141.89608
+Elodina walkeri,100,2021,2,Queensland,Pieridae,Elodina,-17.1651,144.5173
 Junonia orithya,2,2022,10,Queensland,Nymphalidae,Junonia,-24.4611,148.6133
 Ornithoptera richmondia,2,2019,12,Queensland,Papilionidae,Ornithoptera,-28.22288,153.27145
 Delias ennia,1,2020,11,Queensland,Pieridae,Delias,-17.31255,145.58776
@@ -22569,7 +22605,6 @@ Papilio (Princeps) aegeus,1,2022,1,New South Wales,Papilionidae,Papilio,-33.9223
 Heteronympha merope,1,2020,1,Victoria,Nymphalidae,Heteronympha,-37.90583,145.12041
 Cupha prosope,2,2022,5,Queensland,Nymphalidae,Cupha,-17.31235,145.58735
 Papilio (Princeps) ulysses,1,2020,2,Queensland,Papilionidae,Papilio,-17.27497,145.58349
-Hasora chromus,1,1995,1,Queensland,Hesperiidae,Hasora,-12.582,141.808
 Elodina parthia,1,2021,11,Queensland,Pieridae,Elodina,-17.891221,145.462428
 Tirumala hamata,1,2021,2,Queensland,Nymphalidae,Tirumala,-24.88922,152.30706
 Vindula arsinoe,1,2021,3,Queensland,Nymphalidae,Vindula,-17.31161,145.589
@@ -22675,6 +22710,7 @@ Theclinesthes onycha,1,2023,6,Queensland,Lycaenidae,Theclinesthes,-17.31241,145.
 Leptotes plinius,3,2020,6,New South Wales,Lycaenidae,Leptotes,-34.02137,150.85843
 Cressida cressida,1,2023,1,Queensland,Papilionidae,Cressida,-27.22841,152.70182
 Melanitis leda,2,2019,3,Queensland,Nymphalidae,Melanitis,-17.3746,145.3151
+Euploea corinna,100,2021,2,Queensland,Nymphalidae,Euploea,-17.0897,144.3922
 Graphium choredon,1,2023,2,Queensland,Papilionidae,Graphium,-26.287,152.99032
 Zizina otis,1,2020,3,Queensland,Lycaenidae,Zizina,-27.52933,153.05783
 Trapezites symmomus,1,2021,2,Queensland,Hesperiidae,Trapezites,-27.34068,153.0782
@@ -22769,6 +22805,7 @@ Phaedyma shepherdi,1,2020,5,Queensland,Nymphalidae,Phaedyma,-17.31247,145.58724
 Graphium agamemnon,2,2021,2,Queensland,Papilionidae,Graphium,-17.25408,145.60263
 Papilio (Princeps) demoleus,1,2021,9,Queensland,Papilionidae,Papilio,-19.924932,147.848148
 Zizina otis,1,2020,11,Queensland,Lycaenidae,Zizina,-17.313,145.58715
+Eurema hecabe,100,2021,4,Queensland,Pieridae,Eurema,-18.0425,144.8982
 Eurema hecabe,3,2022,10,Queensland,Pieridae,Eurema,-24.9938,148.6897
 Graphium choredon,1,2021,4,New South Wales,Papilionidae,Graphium,-33.92235,150.93671
 Erina hyacinthina,1,2022,1,Queensland,Lycaenidae,Erina,-27.53945,153.06516
@@ -22791,6 +22828,7 @@ Danaus plexippus,1,2022,11,New South Wales,Nymphalidae,Danaus,-33.92242,150.9371
 Papilio (Princeps) demoleus,1,2020,4,Queensland,Papilionidae,Papilio,-28.12353,153.19399
 Vanessa kershawi,3,2021,2,Queensland,Nymphalidae,Vanessa,-26.584931,151.806986
 Delias ennia,1,2022,6,Queensland,Pieridae,Delias,-17.31248,145.58724
+Heteronympha penelope,100,2023,3,Victoria,Nymphalidae,Heteronympha,-36.6583,146.9612
 Cressida cressida,2,2020,3,Queensland,Papilionidae,Cressida,-17.56663,145.49881
 Jalmenus evagoras,5,2022,10,Queensland,Lycaenidae,Jalmenus,-24.8847,150.9805
 Papilio (Princeps) aegeus,3,2019,11,Queensland,Papilionidae,Papilio,-23.10617,150.74162
@@ -23922,6 +23960,7 @@ Toxidia,1,2022,12,New South Wales,Hesperiidae,Toxidia,-30.81252,152.92021
 Papilio (Princeps) demoleus,1,2022,2,Queensland,Papilionidae,Papilio,-27.53996,153.06273
 Heteronympha merope,3,2022,3,New South Wales,Nymphalidae,Heteronympha,-28.90855,152.15842
 Cupha prosope,2,2023,5,Queensland,Nymphalidae,Cupha,-17.3781,145.38465
+Heteronympha merope,100,2023,3,Victoria,Nymphalidae,Heteronympha,-37.29716,144.96737
 Vanessa kershawi,1,2020,10,Victoria,Nymphalidae,Vanessa,-37.77801,145.00452
 Delias nigrina,1,2021,4,Queensland,Pieridae,Delias,-28.0376,153.27652
 Papilio (Princeps) aegeus,1,2020,3,Queensland,Papilionidae,Papilio,-17.31241,145.58723
@@ -24161,7 +24200,6 @@ Delias nigrina,1,2023,4,New South Wales,Pieridae,Delias,-33.9224,150.93719
 Famegana,3,2019,4,Queensland,Lycaenidae,Famegana,-17.9968,143.798
 Hypolimnas bolina,1,2020,10,Queensland,Nymphalidae,Hypolimnas,-26.41029,153.05557
 Catochrysops panormus,10,2022,1,Queensland,Lycaenidae,Catochrysops,-17.41127,145.1381
-Arrhenes marnas,4,2003,1,Queensland,Hesperiidae,Arrhenes,-26.40222,153.0279
 Cupha prosope,3,2023,2,Queensland,Nymphalidae,Cupha,-17.31244,145.58733
 Delias mysis,1,2020,8,Queensland,Pieridae,Delias,-17.31229,145.58737
 Junonia villida,1,2020,3,Queensland,Nymphalidae,Junonia,-27.53252,153.05316
@@ -24274,6 +24312,7 @@ Papilio (Princeps) aegeus,1,2023,3,Queensland,Papilionidae,Papilio,-24.88922,152
 Belenois java,3,2020,9,New South Wales,Pieridae,Belenois,-31.01169,149.41592
 Heteronympha merope,1,2021,12,Victoria,Nymphalidae,Heteronympha,-37.78667,145.02084
 Melanitis leda,1,2019,12,Queensland,Nymphalidae,Melanitis,-27.5345,153.05015
+Nacaduba cyanea,100,2021,2,Queensland,Lycaenidae,Nacaduba,-17.4736,146.0694
 Catopsilia pomona,2,2021,3,Queensland,Pieridae,Catopsilia,-18.1087,144.8252
 Zizina otis,2,2020,10,Victoria,Lycaenidae,Zizina,-37.82384,145.20886
 Toxidia rietmanni,1,2022,10,Queensland,Hesperiidae,Toxidia,-24.161,151.089
@@ -25310,6 +25349,7 @@ Delias mysis,2,2021,2,Queensland,Pieridae,Delias,-17.31241,145.58727
 Psychonotis caelius,1,2023,6,Queensland,Lycaenidae,Psychonotis,-10.5834,142.296
 Orsotriaena medus,1,2023,5,Queensland,Nymphalidae,Orsotriaena,-17.56764,146.08735
 Appias paulina,3,2022,12,New South Wales,Pieridae,Appias,-28.44472,153.19353
+Neolucia agricola,100,2022,10,Queensland,Lycaenidae,Neolucia,-27.0768,152.6659
 Trapezites praxedes,1,2022,4,New South Wales,Hesperiidae,Trapezites,-33.5939,151.17028
 Pachliopta polydorus,2,2022,7,Queensland,Papilionidae,Pachliopta,-12.7154,143.30255
 Hypocysta irius,1,2022,7,Queensland,Nymphalidae,Hypocysta,-12.5978,143.4094
