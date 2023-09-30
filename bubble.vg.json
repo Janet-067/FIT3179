@@ -1,0 +1,86 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 600,
+    "height": 600,
+    "title": "Butterfly Sightings in Australia, year 2013-2023",
+    "data": {
+    "url": "https://raw.githubusercontent.com/Janet-067/FIT3179/main/data/sighting_data_edit_1.csv"
+    },
+    "selection": {
+        "continent_highlight": {
+        "type": "multi",
+        "fields": ["family"],
+        "bind": "legend"
+        }
+    },
+    "params": 
+    [
+        {
+            "name": "Count_above",
+             "value": 0,
+            "bind": {
+                    "input": "range",
+                    "min": 0,
+                    "max": 100,
+                    "step": 1,
+                    "name": "Sightings Count: "
+                    }
+        }
+    ],
+
+    "transform":
+    [
+        {"filter": "datum.individualCount > Count_above"}
+    ],
+
+    "mark": "circle",
+    "encoding": {
+    "x": {
+    "field": "year",
+    "type": "nominal",
+    "title": "Year"
+    },
+    "y": {
+    "field": "individualCount",
+    "type": "quantitative",
+    "title": "Sightings"
+    },
+    "color": {
+    "field": "family",
+    "type": "nominal",
+    "title": "Family",
+    "scale":{
+        "domain": [
+          "Hesperiidae",
+          "Pieridae",
+          "Lycaenidae",
+          "Nymphalidae",
+          "Papilionidae"
+        ],
+        "range": [
+          "#e41a1c",
+          "#984ea3",
+          "#ff7f00",
+          "#a6cee3",
+          "#377eb8"
+        ]
+      }
+
+    },
+    "opacity": {
+        "condition": {"selection": "continent_highlight", "value": 0.6},
+        "value": 0},
+
+    "tooltip": [
+        {"field": "scientificName", "type": "nominal","title": "Name"},
+        {"field": "individualCount", "type": "quantitative", "format": ",","title": "Count"},
+        {"field": "year", "type": "quantitative", "format": ",","title": "Year"},
+        {"field": "family", "type": "nominal","title": "Family"}
+      ],        
+    "size": {
+    "field": "individualCount",
+    "type": "quantitative",
+    "title": "Sightings Count"
+    }
+    }
+    }
