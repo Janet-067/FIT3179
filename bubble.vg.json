@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 200,
-    "height": 400,
+    "width": 270,
+    "height": 300,
     "title": "Butterfly Sightings in Australia, year 2013-2023",
     "data": {
     "url": "https://raw.githubusercontent.com/Janet-067/FIT3179/main/data/sighting_data_edit_1.csv"
