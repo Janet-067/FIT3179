@@ -16,7 +16,7 @@
         "data": {
           "url": "https://raw.githubusercontent.com/Janet-067/FIT3179/main/data/sighting_data_edit_1.csv"
         },
-        "mark": {"type": "circle", "tooltip": {"content": "data"},"color":"red"},
+        "mark": {"type": "circle"},
         "encoding": {
           "longitude": {"field": "decimalLongitude", "type": "quantitative"},
           "latitude": {"field": "decimalLatitude", "type": "quantitative"},
@@ -33,7 +33,18 @@
             "type": "quantitative",
             "title": "count of sightings",
             "scale": {"domain": [1,3,5,10,200]}
-          }
+          },
+
+          "tooltip": [
+            {"field": "scientificName", "type": "nominal","title": "Name"},
+            {"field": "individualCount", "type": "quantitative", "format": ",","title": "Count"},
+            {"field": "year", "type": "quantitative","title": "Year of Sighting"},
+            {"field": "month", "type": "quantitative","title": "Month of Sighting"},
+            {"field": "stateProvince", "type": "nominal","title": "State of Sighting"},
+            {"field": "family", "type": "nominal","title": "Family"},
+            {"field": "decimalLatitude", "type": "quantitative","title": "Latitude of Sighting"},
+            {"field": "decimalLongitude", "type": "quantitative","title": "Longitude of Sighting"}
+          ]
 
         }
       }
