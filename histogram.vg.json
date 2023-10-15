@@ -1,0 +1,42 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 490,
+    "height": 400,
+    "title": {
+      "text":"Total butterfly sightings based on the month of the year",
+      "fontSize":20,
+      "align": "center"
+    },
+    "data": {
+    "url": "https://raw.githubusercontent.com/Janet-067/FIT3179/visualisation2/data/monthly_edit.csv"
+    },
+
+    "mark": {"type":"bar"},
+  "encoding": {
+    "x": {
+      "field": "Month",
+      "type": "nominal",
+      "sort": {"order": "ascending"},
+      "axis":{
+        "labelAngle":360
+      }
+    },
+    "y": {
+      "field": "Count",
+      "type": "quantitative",
+      "title": "Total number of sightings"
+    },
+    "color": {
+        "field": "Count", 
+        "type": "quantitative", 
+        "scale": {"scheme": "purples"},
+        "title": "Count"
+  },
+  "tooltip": [
+    {"field": "MonthName", "type": "nominal","title": "Month"},
+    {"field": "Count", "type": "quantitative", "format": ",","title": "Total No.of Sightings"}
+
+  ]
+}
+}
+  

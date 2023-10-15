@@ -1,0 +1,135 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 480,
+    "height": 400,
+    "title": {
+      "text":"Butterfly sightings in Australia 2013-2023",
+      "fontSize":21,
+      "align": "center"
+    },
+    "data": {
+    "url": "https://raw.githubusercontent.com/Janet-067/FIT3179/main/data/sighting_data_edit_1.csv"
+    },
+    "params": 
+    [
+        {
+            "name": "Count_above",
+             "value": 0,
+            "bind": {
+                    "input": "range",
+                    "min": 1,
+                    "max": 100,
+                    "step": 1,
+                    "name": "No. of Sightings: "
+                    }
+        },
+        {
+          "name": "family_selection",
+          "bind": {
+            "input": "select",
+            "options": [
+              null,
+              "Hesperiidae",
+              "Pieridae",
+              "Lycaenidae",
+              "Nymphalidae",
+              "Papilionidae"
+            ],
+            "labels": [
+              "Show All",
+              "Hesperiidae",
+              "Pieridae",
+              "Lycaenidae",
+              "Nymphalidae",
+              "Papilionidae"
+            ],
+            "name": "Family Selection: "
+          }
+        }
+    ],
+    "transform":
+    [
+        {"filter": "datum.individualCount > Count_above"},
+        {
+          "filter": "family_selection == null || datum.family == family_selection"
+        }
+    ],
+    "encoding": {
+      "x": {
+      "field": "year",
+      "type": "ordinal",
+      "title": "Year",
+      "axis":{
+        "labelAngle":360
+      }
+      },
+      "y": {
+      "field": "individualCount",
+      "type": "quantitative",
+      "title": "Sightings"
+      }
+    },
+
+"layer":[
+  {
+    "mark": {
+      "type": "text",
+      "align": "center",
+      "baseline": "middle",
+      "dx":38.5,
+      "fontSize": 8,
+      "fontStyle": "calibri"
+      },
+      "encoding": {
+      "text": {"field": "scientificName", "type": "nominal"},
+      "color": {"value": "black"},
+      "opacity": {
+      "condition": {
+      "test": "datum['scientificName'] == 'Danaus petilia' & datum['year'] == '2013'||datum['scientificName'] == 'Danaus affinis' & datum['year'] == '2013'||datum['scientificName'] == 'Eurema herla' & datum['year'] == '2016'||datum['scientificName'] == 'Melanitis leda' & datum['year'] == '2013'||datum['scientificName'] == 'Zizina otis' & datum['individualCount'] == '11'& datum['year'] == '2016'",
+      "value": 1
+      },
+      "value": 0
+    }
+  }
+},
+{
+  "mark": "circle",
+  "encoding":{
+  "color": {
+    "field": "family",
+    "type": "nominal",
+    "title": "Family",
+    "scale":{
+        "domain": [
+          "Hesperiidae",
+          "Pieridae",
+          "Lycaenidae",
+          "Nymphalidae",
+          "Papilionidae"
+        ],
+        "range": [
+          "#87BBA2",
+          "#18717D",
+          "#FFF07C",
+          "#F4BBD3",
+          "#F686BD"
+        ]
+      }
+},
+"size": {
+  "field": "individualCount",
+  "type": "quantitative",
+  "title": "Count"
+  },
+
+"tooltip": [
+    {"field": "scientificName", "type": "nominal","title": "Name"},
+    {"field": "individualCount", "type": "quantitative", "format": ",","title": "Count"},
+    {"field": "year", "type": "quantitative","title": "Year"},
+    {"field": "family", "type": "nominal","title": "Family"}
+  ]
+  }
+}
+]
+
+}

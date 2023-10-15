@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Butterfly Sightings in Australia</title>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+  <!-- Import pure.css -->
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
+    integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Google font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+
+  <!-- CSS file -->
+  <link rel="stylesheet" type="text/css" href="htmlStyle.css" media="all">
+
+
+</head>
+
+<body>
+  <div class="d-flex flex-column justify-content-center w-100 h-100"></div>
+  <div class="page">
+
+        <h1>BUTTERFLY SIGHTINGS IN AUSTRALIA <span style="font-size:20px">Year 2013-2023</span></h1> <h3></h3>
+        <div class="pure-g">
+          <div class="pure-u-1-2">
+            <div id="box" class="description">
+            <p>Recording butterfly sightings in Australia is crucial for <span style="color: #9A6FD8">monitoring biodiversity</span> and <span style="color: #9A6FD8">assessing the health of ecosystems</span>. Butterflies are sensitive indicators of environmental changes, such as <span style="color: #9A6FD8">climate shifts</span> and <span style="color: #9A6FD8">habitat loss</span>. Their presence or absence can signal broader <span style="color: #9A6FD8">ecological trends</span> and help scientists make <span style="color: #27b586">informed conservation decisions</span>.</p>
+          </div>
+          </div>
+          <div class="pure-u-1-2">
+            <div id="box2" class="description">
+            <p> <br>Citizen scientists' contributions, such as the data displayed in this visualisation, enhance our <span style="color: #9A6FD8">understanding of local and regional species distributions</span>, aiding in the <span style="color: #27b586">protection </span>of these delicate and beautiful insects and the ecosystems they inhabit.</p>
+          </div>
+          </div>
+
+        
+    <!-- pure grid group -->
+
+        <div class="pure-u-2-3">
+            <h2>GEOGRAPHIC SIGHTINGS IN AUSTRALIA</h2>
+            <div id="vis1" class="vis-container"></div>
+          </div>
+
+          <div class="pure-u-1-3">
+            <div id="des" class="description">
+              <h3><br>Geographic Distribution</h3>
+              <p> The visualisation on the left showcases the geographic distribution of butterfly sightings across Australia from year 2013-2023. Analysis of the visualisation reveals that butterfly sightings are <b>most common in costal regions </b> of Australia.
+                <br><br> <b>This could be attributed to:</b> 
+                <br>
+                1.	 Coastal regions offering a more <b>favourable temperature range</b> for butterfly activity.
+                <br>
+                2.	 Coastal areas tend to have a greater <b>variety of habitats</b> for butterflies.
+                <br>
+                3.	 Costal areas are <b>more populated</b> than other regions, hence more recorded sightings from citizens.
+                 </p>
+            </div>
+          </div>
+    </div>
+    <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-2-3">
+        <h2>TRENDS IN SIGHTINGS OVER YEARS</h2>
+        <div id="vis2" class="vis-container"></div>
+      </div>
+
+      <div class="pure-u-1-3">
+        <div id="des2" class="description">
+        <h3><br>Trends in sightings across <Br> 2013-2023</h3>
+          <p>
+            This dot-map maps the sightings across 2013-2023, <b>revealing that:</b>
+            <br><br>
+            1.	 The <b>total number of sightings</b> is <b>steadily increasing</b> across the years.
+            <br>
+            2.	 This was revealed to be true for all family of butterflies when the Family filter is applied. 
+            <br>
+            3.	The number of sightings in <b>individual encounters</b> has also <b>increased</b> over the years, with larger circles (indicating a greater number of sightings) observed more frequently in recent years. 
+            <br>
+            4. This was similarly revealed to be true for all family of butterflies when the Family filter is applied. 
+            </p>
+        </div>
+      </div>
+    </div>
+    <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-2-3">
+        <h2>TRENDS IN SIGHTINGS OVER MONTHS</h2>
+        <div id="vis3" class="vis-container"></div>
+      </div>
+      
+      <div class="pure-u-1-3">
+        <div id="des3" class="description">
+        <h3><br> Trends in sightings based on months of the year</h3>
+          <p>Analysing the histogram on the right <b>reveals that</b>:
+            <br>
+            1.	<b>March</b> documented the <b>highest</b> number of sightings.
+            <br>
+            2.	<b>August</b> documented the <b>lowest</b> number of sightings.
+            <br>
+            3.	<b>Comparable</b> sightings were recorded in October, November and December. 
+            <br>
+            These observations are <b>in line with scientific estimation</b> based on the seasonal climate, life cycle patterns, migration, and floral availability in Australia throughout the year.
+            </p>
+        </div>
+      </div>
+
+        </div>
+
+    <!-- end pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <div id="title" class="title">
+          <h2>SIGHTINGS CATAGORISED BASED ON STATE AND FAMILY</h2>
+        </div>
+      </div>
+
+      <div class="pure-u-1-2">
+        <div id="vis4" class="vis-container"></div>
+      </div>
+
+      <div class="pure-u-1-2">
+        <div id="vis5" class="vis-container"></div>
+      </div>
+
+          <div class="pure-u-1-2">
+            <div id="box3" class="description">
+            <p><b>Analysis of the donut chart, reveals that</b>: 
+              <br><br>1.	Sightings are <b>most common in </b><span style="color: #BF7FEA"><b>Queensland</b></span>, with the highest recorded number of total butterfly sightings.
+              <br>2.	Followed by <span style="color: #509ec5">New South Wales</span>, <span style="color: #AA4499">Victoria</span>, <span style="color: #53c2b0">Tasmania</span>, <span style="color: #117733">Australian Capital Territory</span>, <span style="color: #CC6677">South Australia</span>, <span style="color: #bead58">Western Australia</span> and with the <b>least number of sightings recorded in the</b> <span style="color: #332288"><b>Northern Territory</b></span>. 
+              </p>
+          </div>
+          </div>
+          <div class="pure-u-1-2">
+            <div id="box4" class="description">
+            <p><b>Analysis of the bar chart, reveals that</b>: 
+              <br><br>1.	Of the recorded betterflies, <span style="color: #c993aa"><b>Nymphalidae</b></span> <b>is the most common</b> family of butterfly. 
+              <br>2.	Followed by <span style="color: #18717D">Pieridae</span>, <span style="color: #b8a831">Lycarnidae</span>, <span style="color: #e62d86">Papilionidae</span>, and with <span style="color: #87BBA2"><b>Hesperiidae</b></span> <b>being the least commonly sighted </b>family of butterflies. 
+              </p>
+          </div>
+        </div>
+      </div>
+ 
+    <!-- end pure grid group -->
+
+    <div class="pure-g">
+      <div class="pure-u-1-1 small-font">
+        <p>This visualisation is created by Janet Su</a>. The datasource is <a href="https://collections.ala.org.au/public/show/dr16457" target=" _blank">Atlas of living Australia</href>.</p>
+      </div>
+    </div>
+
+
+  </div> <!-- end page -->
+
+  <script type="text/javascript">
+    var specVis1 = "./sighting_symbol_map.vg.json";
+    var specVis2 = "./bubble.vg.json";
+    var specVis3 = "./histogram.vg.json";
+    var specVis4 = "./donut.vg.json";
+    var specVis5 = "./family.vg.json";
+
+    vegaEmbed('#vis1', specVis1, { "actions": false });
+
+    vegaEmbed('#vis2', specVis2, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis3', specVis3, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis4', specVis4, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis5', specVis5, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+  </script>
+</body>
+
+</html>

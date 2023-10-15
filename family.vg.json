@@ -1,0 +1,49 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 320,
+  "height": 370,
+  "title": {
+    "text":"Butterfly sightings catagorised by Family",
+    "fontSize":20,
+    "align": "center"
+  },
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/Janet-067/FIT3179/visualisation2/data/family.csv"
+  },
+
+  "selection": {
+      "continent_highlight": {
+      "type": "multi",
+      "fields": ["Family"],
+      "bind": "legend"
+      }
+  },
+  
+  "mark": {"type": "arc"},
+  "encoding": {
+    "theta": {
+      "field": "Count", 
+      "type": "quantitative"},
+
+    "color": {"field": "Family", "type": "nominal", 
+      "scale": {
+                "domain": ["Hesperiidae", "Lycaenidae", "Nymphalidae","Papilionidae","Pieridae","Not Supplied"],
+                "range": ["#87BBA2", "#FFF07C", "#F4BBD3","#F686BD", "#18717D", "#DAE0EC"]
+              }
+  },
+
+    "opacity": {
+      "condition": {"selection": "continent_highlight", "value": 1},
+      "value": 0.3},
+
+      "tooltip":[
+        {"field": "Count", "type": "quantitative","title": "Sightings"},
+        {"field": "Family", "type": "nominal","title": "Family of Butterfly"}
+      ]
+
+  }
+
+
+
+}
